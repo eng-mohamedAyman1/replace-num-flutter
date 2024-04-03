@@ -1,6 +1,7 @@
 # replace_num
 
-A new Flutter project.
+I am the developer of an application that takes text from the user that contains numbers, words, spaces, and other components, and then the program deletes everything that is redundant from the text.
+Next, the program divides the text into a set of containers. When you click on the container, a copy of it is taken.
 
 ## Getting Started
 
